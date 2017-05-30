@@ -13,9 +13,8 @@
 //Main code begins here
 
 class Main {      //main class
-	public $sampleMemberVar = 'aMemberVar Member Variable';
+	
 	public $scaperFunc = 'scaperFunc';
-	public $file_get_contents_curl = 'file_get_contents_curl';
 	
 	
 	function scaperFunc() {  //main funtion
