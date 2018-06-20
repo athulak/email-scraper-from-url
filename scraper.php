@@ -2,8 +2,11 @@
 
 /*
  * This code is only for educational purposes. 
+ *
+ * This code can extract email addressed from a given URL
  * 
  * Developer: Athul AK
+ * https://athulak.com
  * athullive@gmail.com
  * fb.com/athullive
  * git: https://github.com/athullive
